@@ -1,0 +1,19 @@
+/*
+Madison Hildreth
+Due Date
+Project name and description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {background-color:salmon;}
+header {background-color: aqua}
+main {background-color: paleturquoise}
+footer {background-color: aquamarine}
+
